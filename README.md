@@ -53,9 +53,12 @@
 *   [Solidity](#solidity)
 *   [MATLAB](#matlab)
 *   [Classic ASP](#classic-asp)
-*   [Visual Basic .NET](#visual-basic-net)
 
 ## Python
+
+*   [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+
+*   [Guovin/TV](https://github.com/Guovin/TV) - 📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 
 *   [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 
@@ -221,7 +224,7 @@
 
 *   [dataabc/weiboSpider](https://github.com/dataabc/weiboSpider) - 新浪微博爬虫，用python爬取新浪微博数据
 
-*   [mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI) - 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、x64
+*   [mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI) - 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、x64、微信hook、微信接口
 
 *   [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 
@@ -769,6 +772,8 @@
 
 ## JavaScript
 
+*   [kylelv2000/oaifree-helper](https://github.com/kylelv2000/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
+
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -795,7 +800,7 @@
 
 *   [ai365vip/chat-api](https://github.com/ai365vip/chat-api) - 基于One API与New API的基础上进行二次开发
 
-*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，支持reality协议一键自制proxyip（IPV4、IPV6、域名三形式），最全的本地化优选IP应用脚本
+*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，支持reality协议一键自制proxyip（IPV4、IPV6、域名三形式），推荐CF优选官方IP三地区脚本，自动输出美、亚、欧最优IP
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
@@ -1165,7 +1170,7 @@
 
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 
-*   [Licoy/ChatGPTs](https://github.com/Licoy/ChatGPTs) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
+*   [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
@@ -1775,7 +1780,7 @@
 
 ## Dart
 
-*   [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 *   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
@@ -1901,8 +1906,6 @@
 
 *   [net-ssh/net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 
-*   [whomwah/rqrcode](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
-
 ## C++
 
 *   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
@@ -2002,8 +2005,6 @@
 *   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 
 *   [ganlvtech/down\_52pojie\_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 https://down.52pojie.cn/ 页面的源代码
-
-*   [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda\_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
 
 ## Objective-C
 
@@ -2138,7 +2139,3 @@
 ## Classic ASP
 
 *   [koolshare/ledesoft](https://github.com/koolshare/ledesoft) -
-
-## Visual Basic .NET
-
-*   [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
