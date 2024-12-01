@@ -10,18 +10,18 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [JavaScript](#javascript)
 *   [Java](#java)
-*   [C++](#c)
-*   [C#](#c-1)
+*   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
-*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [CSS](#css)
 *   [HTML](#html)
 *   [Svelte](#svelte)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -54,7 +54,215 @@
 *   [MATLAB](#matlab)
 *   [Classic ASP](#classic-asp)
 
+## C\#
+
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+
+*   [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
+
+*   [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The king is back -leaner, faster, and ready to declutter your Windows 11
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+*   [WWILLV/GodOfHacker](https://github.com/WWILLV/GodOfHacker) - 黑客神器
+
+*   [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
+
+*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
+
+*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+
+*   [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [liulei901112/TextLocator](https://github.com/liulei901112/TextLocator) - 基于.net实现的本地文档的全文索引定位器，根据关键词搜索定位本地文档内容。便于查找历史文档时节省时间，本地文本搜索神器！
+
+*   [ldqk/ImageSearch](https://github.com/ldqk/ImageSearch) - 基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+
+*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
+
+*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+
+*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
+
+*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
+
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+
+*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [gabrielxvx/zh-fiddler](https://github.com/gabrielxvx/zh-fiddler) - Fiddler Web Debugger 中文版
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+## TypeScript
+
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! \[In Beta]
+
+*   [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
+
+*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+
+*   [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
+
+*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
+
+*   [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint) - 自定义你的浏览器指纹，让你的浏览器更加安全 -- Chrome/Edge扩展
+
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+
+*   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
+
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+
+*   [LLM-Red-Team/metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api) - 🚀 秘塔AI搜索逆向API【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
+
+*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+
+*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+
+*   [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares | 手势识别进行自定义操控电脑程序
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [shfshanyue/wechat-chatgpt](https://github.com/shfshanyue/wechat-chatgpt) - 基于 ChatGPT/MidJourney 的 AI 助手微信机器人，支持个人微信与企业微信，支持客服模式并实时更新
+
+*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+
+*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+
+*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+
+*   [Rockyzsu/GeminiChat](https://github.com/Rockyzsu/GeminiChat) - google Gemini Web Online
+
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+*   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+
+*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
+
+*   [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
+
+*   [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
+
+*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+
+*   [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+*   [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader) - A script to download ALL Midjourney Images🎇
+
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+*   [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
+
+*   [bobz25/chat-simplifier](https://github.com/bobz25/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+*   [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
+
+*   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
+
+*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+
+*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
+
+*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+
+*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.
+
+*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的面试刷题网站，帮你拿到满意 offer！⭐️ 2024年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
+
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+
+*   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
+
+*   [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
+
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
+*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
+
+*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+*   [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
+
+*   [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
+
 ## Python
+
+*   [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and uploads them to the database.
+
+*   [XiaomingX/openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) - openai-captcha-detection 是一个使用 OpenAI 进行验证码识别的工具。目前验证码识别准确率100%，通过调用 OpenAI 的 API，这个项目可以实现对复杂验证码图片的文本识别，帮助开发者在验证码处理场景中进行自动化操作。
 
 *   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
@@ -66,7 +274,7 @@
 
 *   [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 
-*   [Guovin/IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool
 
 *   [soroushmirzaei/telegram-configs-collector](https://github.com/soroushmirzaei/telegram-configs-collector) - The Script Gathers Juicity, Hysteria, Tuic, Vless, Vmess, Trojan, and Shadowsocks Configurations From Telegram Channels and Subscription Links
 
@@ -126,7 +334,7 @@
 
 *   [zhaoyanxue666/yanxuan](https://github.com/zhaoyanxue666/yanxuan) -
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅IPTV源+IPA巨魔应用=自动更新
 
 *   [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 
@@ -758,13 +966,147 @@
 
 *   [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 
-*   [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling\_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
+## JavaScript
 
-*   [loadchange/amemv-crawler](https://github.com/loadchange/amemv-crawler) - 🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫
+*   [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) -
 
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+*   [kylelv2000/oaifree-helper](https://github.com/kylelv2000/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
 
-*   [Qarj/search-image](https://github.com/Qarj/search-image) - Find the location of one image inside another image
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+
+*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
+
+*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
+
+*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
+
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
+
+*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+
+*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
+
+*   [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
+
+*   [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+
+*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
+
+*   [yelochick/deeplx-lb](https://github.com/yelochick/deeplx-lb) -
+
+*   [ai365vip/chat-api](https://github.com/ai365vip/chat-api) - 基于One API与New API的基础上进行二次开发
+
+*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，全网首发reality协议一键自建proxyip与CF反代IP，推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+
+*   [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
+
+*   [3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
+
+*   [valinet/ExplorerPatcher-L10N](https://github.com/valinet/ExplorerPatcher-L10N) - Localizations for ExplorerPatcher
+
+*   [op7418/Prompt-hunter](https://github.com/op7418/Prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
+
+*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+*   [liyuec/easyExcelJs](https://github.com/liyuec/easyExcelJs) - 简单的操作生成漂亮的EXCEL，快速上手。提供漂亮模板直接使用
+
+*   [dxcweb/local-ai](https://github.com/dxcweb/local-ai) - Mac和Windows一键安装Stable Diffusion WebUI,LamaCleaner,SadTalker,ChatGLM2-6B,等AI工具,使用国内镜像,无需魔法。
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [keenwon/antcolony](https://github.com/keenwon/antcolony) - Nodejs实现的一个磁力链接爬虫 https://findit.keenwon.com (原域名http://findit.so )
+
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
+*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
+
+*   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
+
+*   [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+*   [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator for data science, extension to Jupyter Lab, Jupyter Notebook and Google Colab.
+
+*   [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+
+*   [geeeeeeeek/python\_bt](https://github.com/geeeeeeeek/python_bt) - 基于python的电影搜索网站，python+django开发的电影链接搜索网站 - 毕业设计 - 课程设计
+
+*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [williamnie/netSend](https://github.com/williamnie/netSend) - 内网传输工具
+
+*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
+
+*   [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
+
+*   [soulteary/docker-wechat-markdown-editor](https://github.com/soulteary/docker-wechat-markdown-editor) - 开箱即食的微信编辑器。（容器镜像大约6M）
+
+*   [kkHAIKE/fake115](https://github.com/kkHAIKE/fake115) - 伪装115浏览器
+
+*   [imfing/keras-flask-deploy-webapp](https://github.com/imfing/keras-flask-deploy-webapp) - :smiley\_cat: Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
+
+*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
+
+*   [fex-team/kityminder](https://github.com/fex-team/kityminder) - 百度脑图
+
+*   [tces1/Aria2-Helper-for-115](https://github.com/tces1/Aria2-Helper-for-115) - 115\_aria2助手备份, 均为开放代码构成，尝试之前自己先检查一遍安全风险
+
+*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
+
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+*   [wuzhi03/MyActions](https://github.com/wuzhi03/MyActions) -
+
+*   [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) - ApacheCN 深度学习译文集
+
+*   [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
+
+*   [imba97/Btools](https://github.com/imba97/Btools) - Btools
+
+*   [T3rry7f/Fake115Upload](https://github.com/T3rry7f/Fake115Upload) - 115
+
+*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+
+*   [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
+
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
+
+*   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
+
+*   [sukebenet/dreamtime](https://github.com/sukebenet/dreamtime) - Use artificial intelligence to create fake nudes.
+
+*   [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+
+*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+
+*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 
 ## Java
 
@@ -844,7 +1186,7 @@
 
 *   [duilib/duilib](https://github.com/duilib/duilib) -
 
-*   [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding.
+*   [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
 
 *   [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 
@@ -884,72 +1226,6 @@
 
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 
-## C\#
-
-*   [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
-
-*   [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The king is back -leaner, faster, and ready to declutter your Windows 11
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-
-*   [WWILLV/GodOfHacker](https://github.com/WWILLV/GodOfHacker) - 黑客神器
-
-*   [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
-
-*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-
-*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-*   [liulei901112/TextLocator](https://github.com/liulei901112/TextLocator) - 基于.net实现的本地文档的全文索引定位器，根据关键词搜索定位本地文档内容。便于查找历史文档时节省时间，本地文本搜索神器！
-
-*   [ldqk/ImageSearch](https://github.com/ldqk/ImageSearch) - 基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
-
-*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-
-*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
-
-*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
-
-*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-
-*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [gabrielxvx/zh-fiddler](https://github.com/gabrielxvx/zh-fiddler) - Fiddler Web Debugger 中文版
-
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
 ## miscellaneous
 
 *   [hud4156/mytv](https://github.com/hud4156/mytv) -
@@ -970,7 +1246,7 @@
 
 *   [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）Telegram:https://t.me/+ZtLSwuIKTo44MDY1
 
-*   [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) -
+*   [bpc-clone/bpc\_chrome\_support](https://github.com/bpc-clone/bpc_chrome_support) -
 
 *   [minghao-wu/transagents](https://github.com/minghao-wu/transagents) - The official repository of the paper "(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts"
 
@@ -1196,148 +1472,6 @@
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
-## JavaScript
-
-*   [kylelv2000/oaifree-helper](https://github.com/kylelv2000/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-
-*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
-
-*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
-
-*   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
-
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
-
-*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-
-*   [ymyuuu/Cloudflare-Workers-Proxy](https://github.com/ymyuuu/Cloudflare-Workers-Proxy) - 简单而功能强大的反代服务，允许你将一个网址映射到另一个网址，并处理跨域请求
-
-*   [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
-
-*   [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-
-*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
-
-*   [yelochick/deeplx-lb](https://github.com/yelochick/deeplx-lb) -
-
-*   [ai365vip/chat-api](https://github.com/ai365vip/chat-api) - 基于One API与New API的基础上进行二次开发
-
-*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，全网首发reality协议一键自建proxyip与CF反代IP，推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
-
-*   [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
-
-*   [3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
-
-*   [valinet/ExplorerPatcher-L10N](https://github.com/valinet/ExplorerPatcher-L10N) - Localizations for ExplorerPatcher
-
-*   [op7418/Prompt-hunter](https://github.com/op7418/Prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
-
-*   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-*   [liyuec/easyExcelJs](https://github.com/liyuec/easyExcelJs) - 简单的操作生成漂亮的EXCEL，快速上手。提供漂亮模板直接使用
-
-*   [dxcweb/local-ai](https://github.com/dxcweb/local-ai) - Mac和Windows一键安装Stable Diffusion WebUI,LamaCleaner,SadTalker,ChatGLM2-6B,等AI工具,使用国内镜像,无需魔法。
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [keenwon/antcolony](https://github.com/keenwon/antcolony) - Nodejs实现的一个磁力链接爬虫 https://findit.keenwon.com (原域名http://findit.so )
-
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-
-*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-
-*   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
-
-*   [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
-
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-
-*   [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator for data science, extension to Jupyter Lab, Jupyter Notebook and Google Colab.
-
-*   [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
-
-*   [geeeeeeeek/python\_bt](https://github.com/geeeeeeeek/python_bt) - 基于python的电影搜索网站，python+django开发的电影链接搜索网站 - 毕业设计 - 课程设计
-
-*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-
-*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-
-*   [williamnie/netSend](https://github.com/williamnie/netSend) - 内网传输工具
-
-*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
-
-*   [stevenjoezhang/bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 哔哩哔哩视频下载器 | Yet another video downloader for Bilibili
-
-*   [soulteary/docker-wechat-markdown-editor](https://github.com/soulteary/docker-wechat-markdown-editor) - 开箱即食的微信编辑器。（容器镜像大约6M）
-
-*   [kkHAIKE/fake115](https://github.com/kkHAIKE/fake115) - 伪装115浏览器
-
-*   [imfing/keras-flask-deploy-webapp](https://github.com/imfing/keras-flask-deploy-webapp) - :smiley\_cat: Pretty & simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
-
-*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
-
-*   [fex-team/kityminder](https://github.com/fex-team/kityminder) - 百度脑图
-
-*   [tces1/Aria2-Helper-for-115](https://github.com/tces1/Aria2-Helper-for-115) - 115\_aria2助手备份, 均为开放代码构成，尝试之前自己先检查一遍安全风险
-
-*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
-
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-*   [wuzhi03/MyActions](https://github.com/wuzhi03/MyActions) -
-
-*   [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) - ApacheCN 深度学习译文集
-
-*   [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
-
-*   [imba97/Btools](https://github.com/imba97/Btools) - Btools
-
-*   [T3rry7f/Fake115Upload](https://github.com/T3rry7f/Fake115Upload) - 115
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
-*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
-
-*   [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
-
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
-
-*   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
-
-*   [sukebenet/dreamtime](https://github.com/sukebenet/dreamtime) - Use artificial intelligence to create fake nudes.
-
-*   [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-
-*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-
-*   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-
-*   [jhawthorn/curl-to-ruby](https://github.com/jhawthorn/curl-to-ruby) - :arrow\_down: Convert a curl command into ruby's net/http
-
 ## Go
 
 *   [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
@@ -1484,7 +1618,7 @@
 
 *   [QAbot-zh/query-key-app](https://github.com/QAbot-zh/query-key-app) -
 
-*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 
 *   [HengMrZ/tts](https://github.com/HengMrZ/tts) - first project
 
@@ -1536,145 +1670,13 @@
 
 *   [CNSeniorious000/free-chat](https://github.com/CNSeniorious000/free-chat) - An elegant LLM chat UI forked from chatgpt-demo of @anse-app. Index site at https://free-chat.asia
 
-## TypeScript
-
-*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-
-*   [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
-
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
-
-*   [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint) - 自定义你的浏览器指纹，让你的浏览器更加安全 -- Chrome/Edge扩展
-
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-
-*   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
-
-*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
-
-*   [LLM-Red-Team/metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api) - 🚀 秘塔AI搜索逆向API白嫖测试【特长：超强检索超长输出】，支持高速流式输出、超强联网搜索（全网or学术以及简洁、深入、研究三种模式），零配置部署，多路token支持
-
-*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
-
-*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-
-*   [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 手势识别进行自定义操控电脑程序 |  an application based on gesture recognition for controlling desktop softwares, developed by MediaPipe + Electron + React
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [shfshanyue/wechat-chatgpt](https://github.com/shfshanyue/wechat-chatgpt) - 基于 ChatGPT/MidJourney 的 AI 助手微信机器人，支持个人微信与企业微信，支持客服模式并实时更新
-
-*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
-
-*   [weaigc/bingo](https://github.com/weaigc/bingo) - Bingo，一个让你呼吸顺畅 New Bing。
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
-
-*   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
-
-*   [Rockyzsu/GeminiChat](https://github.com/Rockyzsu/GeminiChat) - google Gemini Web Online
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-
-*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-
-*   [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
-
-*   [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
-
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
-
-*   [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-
-*   [maotoumao/midjourney-downloader](https://github.com/maotoumao/midjourney-downloader) - A script to download ALL Midjourney Images🎇
-
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-
-*   [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
-
-*   [bobz25/chat-simplifier](https://github.com/bobz25/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
-
-*   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
-
-*   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
-
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
-
-*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
-
-*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-
-*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.
-
-*   [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的面试刷题网站，帮你拿到满意 offer！⭐️ 2024年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
-
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-
-*   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-
-*   [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
-
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
-
-*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
-
-*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-
-*   [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
-
-*   [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
-
 ## Vue
 
 *   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
 
 *   [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
 
-*   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
+*   [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
@@ -1854,7 +1856,7 @@
 
 *   [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
-*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 
 *   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
@@ -1911,8 +1913,6 @@
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
 *   [taf2/curb](https://github.com/taf2/curb) - Ruby bindings for libcurl
-
-*   [xwxbug/diskdir-extended](https://github.com/xwxbug/diskdir-extended) - DiskDir Extended - plugin for Total Commander listing directory structure including archive files(forked version,support utf8)
 
 ## Rust
 
